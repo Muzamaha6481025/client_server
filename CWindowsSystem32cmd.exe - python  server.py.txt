@@ -1,0 +1,12 @@
+Microsoft Windows [Version 10.0.26100.6899]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ASUS\Downloads\cmd>python server.py
+Host: localhost
+Port: 001
+New connection at ID 0 ('127.0.0.1', 54855)
+New connection at ID 1 ('127.0.0.1', 54859)
+ID 0: hai bro, apa kabar?
+ID 0: hai juga bro, kabar ku baik
+ID 1: yo kabar
+ID 1: mantap
